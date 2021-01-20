@@ -7,4 +7,5 @@ BCH splitting. Exclusive operation manual for BCH split [How to split BCH/BCHA a
 
 
 This upgrade is expected to fork Bitcoin Cash out of two chains, BCHA (Bitcoin Cash ABC) and BCH (Bitcoin Cash Node). 
+
 Split coins at: https://bchnwallet.org
